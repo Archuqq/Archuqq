@@ -37,4 +37,4 @@
 ---
 
 ## 🌍 Connect with Me
-- 🌐 Website: [archuqq.dev]([https://archuqqdev.onrender.com](https://archuqqdev-production.up.railway.app/))
+- 🌐 Website: [archuqq.dev](https://archuqqdev-production.up.railway.app/)
