@@ -14,15 +14,15 @@
 
 <h1 align="center">hey there 👋</h1>
 
-## I'am Python Fullstack Developer and web developer
+## I'am Python Back-End Developer and web developer
 
 🚀 I am passionate about fullstack development and automation. I develop websites and different bots for different projects
 
 ---
 
 ## 🔥 About Me
-- 🎯 **Web**: 
-- 🛠 **Fullstack Python Engineering**: Proficient in Flask, FastAPI, PostgreSQL.
+- 🎯 **Web developer**: 
+- 🛠 **Back-End Python Engineering**: Proficient in Flask, FastAPI, PostgreSQL.
 - 🤖 **Automation & Bots**: Developed multiple bots for Discord, Telegram, and business automation.
 ---
 
